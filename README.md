@@ -229,7 +229,8 @@ int main()
 getch();
 return 0;
 }
-                                              ----------------------------------------------#include<iostream>
+                                              ----------------------------------------------
+#include<iostream>
 using namespace std;
 #include<conio.h>
 int main()
